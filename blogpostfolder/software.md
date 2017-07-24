@@ -1,0 +1,9 @@
+
+Software Developement 
+18 July 2017
+
+I have lent about Agile software which promotes team work because working together easly gets the job done rather working alone.It also expect change versus complition, It acknoledges a room for change when building a software versus the hunt for complition.
+The fander of the software must be made a valiable member of the team during the proccess of devolopent so that when there any changes you have made as the developer you can notify him/her. In most cases programmers end up building a systerm that not solve the problrm because they do not ask certain qustion they are left to do all the work.
+
+>Design is more expensive and needs a team of expect to draw a design and it needs a creative mind.Construction is much cheaper than the design,but constructers also face problems that might have overlooked during the design proccess.
+>In most cases design does not carter for a budget so the amount is estimited in most cases constructers are left to deal with a design whichn is worth a huge amount that they do not have   
