@@ -1,5 +1,9 @@
 READING IN DIFFRENT LEVELS
 14 July 2017
+---
+layout: post
+title: reading in diffrent levels
+---
 
 I have a better understanding when it comes to reading now.I used to think that reading for fun was the same as reading for knowledge.
 Reading comes in diffrent levels.Elementary and Systermatical skimming reading were the only levels of reading I was farmilier with,but I now gained more knowledge on other levels of reading.

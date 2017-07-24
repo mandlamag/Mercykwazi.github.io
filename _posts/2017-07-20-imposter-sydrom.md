@@ -1,7 +1,11 @@
-20 July 2017
+﻿20 July 2017
 Imposter sydrome
+---
+layout: post
+title: imposter sydrome
+---
 
-AN Imposter sydrome is also known as fraud sydrome, is most common in  people with diasablility and women.
+An Imposter sydrome is also known as fraud sydrome, is most common in  people with diasablility and women.
 >It is when they do not want to be acknoledged for there hard work because they thing they achived those things because people were feeling sorry for them because of their condition,those people regard their achivemeny as just luck they do not believe that they can achieve certain things or they can be able to do good because of their condition.In most cases these people dont want to be exposed because they think they are fraud.
 
 Imposter sydrom haave symptoms which are overworking,impefection not acknoledging their achivements.The individuals usually say that they probably got luck to recieve an ackndgement or have the preasure of not failing that would result to them always striving for perfaction. 
