@@ -1,8 +1,8 @@
-﻿READING IN DIFFRENT LEVELS
-14 July 2017
----
-layout: 
-title: reading in diffrent levels
+﻿---
+layout: post
+title:  "READING IN DIFFRENT LEVELS"
+date:   2017-07-14 08:21:45 +0200
+categories: 
 ---
 
 I have a better understanding when it comes to reading now.I used to think that reading for fun was the same as reading for knowledge.
