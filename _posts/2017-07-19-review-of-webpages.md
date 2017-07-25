@@ -1,8 +1,8 @@
-﻿19 July 2017
-Review of of our web pages
----
-layout: 
-title: review of web pages
+﻿
+---layout: post
+title:  "REVIEW OF WEB PAGES"
+date:   2017-07-19
+categories: 
 ---
 
 >We reviewed each other web pages and codes

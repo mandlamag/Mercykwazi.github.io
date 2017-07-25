@@ -1,8 +1,10 @@
-﻿20 July 2017
-Imposter sydrome
----
-layout: 
+﻿
 title: imposter sydrome
+---
+layout: post
+title:  "IMPOSTER SYDROME"
+date:   2017-07-20
+categories: 
 ---
 
 An Imposter sydrome is also known as fraud sydrome, is most common in  people with diasablility and women.
