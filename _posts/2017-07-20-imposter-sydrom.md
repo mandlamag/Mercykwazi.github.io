@@ -1,7 +1,7 @@
 ﻿20 July 2017
 Imposter sydrome
 ---
-layout: post
+layout: 
 title: imposter sydrome
 ---
 

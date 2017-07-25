@@ -1,7 +1,7 @@
-READING IN DIFFRENT LEVELS
+﻿READING IN DIFFRENT LEVELS
 14 July 2017
 ---
-layout: post
+layout: 
 title: reading in diffrent levels
 ---
 
