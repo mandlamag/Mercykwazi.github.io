@@ -1,5 +1,6 @@
 ﻿
----layout: post
+---
+layout:
 title:  "REVIEW OF WEB PAGES"
 date:   2017-07-19
 categories: 

@@ -1,7 +1,7 @@
 ﻿
 title: imposter sydrome
 ---
-layout: post
+layout: 
 title:  "IMPOSTER SYDROME"
 date:   2017-07-20
 categories: 
