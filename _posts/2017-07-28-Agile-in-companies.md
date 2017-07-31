@@ -17,4 +17,6 @@ on how you are going to oparate.
 -You also need to have Principles(the way you think and make decisions.)
 -Once you have your principles you will need to put them into practice.
 -Lastly you need to gather tools that you will use to to build your product.
+         Typing speed 
+-12wpm
 
