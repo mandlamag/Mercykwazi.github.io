@@ -1,6 +1,5 @@
-﻿	Design thinking and user experience
-24 July 2017
-layout: post
+﻿---
+layout: 
 title: "DESIGN THINKING"
 date: 2017-07-24
 categories: 

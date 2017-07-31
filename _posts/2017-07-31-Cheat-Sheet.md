@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: 
 title:  "Cheat sheet"
 date:   2017-07-31
 categories: 

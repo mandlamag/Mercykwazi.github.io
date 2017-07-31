@@ -1,5 +1,4 @@
-﻿
-title: imposter sydrome
+
 ---
 layout: 
 title:  "IMPOSTER SYDROME"

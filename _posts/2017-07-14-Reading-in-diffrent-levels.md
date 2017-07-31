@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: 
 title:  "READING IN DIFFRENT LEVELS"
 date:   2017-07-14 08:21:45 +0200
 categories: 
