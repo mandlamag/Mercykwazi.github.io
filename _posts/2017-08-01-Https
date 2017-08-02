@@ -1,0 +1,17 @@
+---
+layout:
+title:  "HTTPS AND SSH"
+date:   2017-07-19
+categories: 
+---
+https-it is a hyper text transfer protocol secure.
+It is aprotocol over which data is sent between the browser and the website that one is connected to.
+it guranteers security over communication in a computer network.
+It is widely used in the internet.
+It provides authentication(which is the process of verifying the indentity of a userof the web site and associated web browser which is being used for communication.)
+It provides encription between a client and a server.
+A security channel over insecure network is provided by ensuring reasonable protection from eaversdropers provided that the server certificate is verified.
+                 SSH  
+Security shell is a cryptographic network protocol for oparating network and services security over an unsecure network
+It connects an ssh client application with an ssh server providing a secure channel over a secure channel network in a client server network in a client server achitecture
+It is a replacement of Telnet and unsecure remote shell protocols.
