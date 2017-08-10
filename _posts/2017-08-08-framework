@@ -1,9 +1,10 @@
 ﻿---
 layout: 
 title:  "programming framework"
-date:   2017-08-8 08:21:45 +0200
+date:   2017-08-8 
 categories: 
 ---
+Programming framework
 It is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications.
 It is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate development of software applications, products and solutions.
 They include support programs, compilers, code libraries, tool sets, and application programming.
