@@ -1,0 +1,17 @@
+﻿---
+layout: 
+title:  "For-loop"
+date:   2017-08-09 08:21:45 +0200
+categories: 
+---
+It is a control flow statement for specifiying iteration,which allows code to be executed repeated.
+Its syntax is based on the heritage of the language  and the prio programming language is borrowed from.
+It  is distingushed by an explicicit  loop counter or loop variable.
+Loop counter-It controls the interations of a loop.
+            -It allows the body of the for loop to know  the sequence of each interation.
+kinds of For-loop
+Tradition-for- loops
+Interations based for-loops 
+Vectorised for loops
+Compound for loops
+
