@@ -29,5 +29,5 @@ It is used to group elements for purposes such as styling usually usind Id attri
 When you want to emphasis your text.
 <a>
 It is a	hyperlink, which is used to link from one page to another.If you want to add a link to yor web page you must use the <a> tag
-
+Typing speed 12wpm
 
