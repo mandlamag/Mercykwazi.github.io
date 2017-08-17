@@ -1,6 +1,6 @@
 ﻿---
 layout: 
-title:  "String Interpolion and Function"
+title:  "String Interpolation and Function"
 date:   2017-08-1408:21:45 +0200
 categories: 
 ---
