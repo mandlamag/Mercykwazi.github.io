@@ -1,0 +1,25 @@
+---
+layout: 
+title:  "Pull Request"
+date:   2017-09-01 09:40
+categories: 
+---
+Pull requst allows yor to tell others about the changes you have pushed to Github repository.
+
+Once a pull request is sent,intrested parties can review the set of changes 
+
+They can discuss potential modification and even push follow up commits if necessary.
+
+Pull requests are commonly used by teams collaborating using shared repository model
+
+Many open source projects on Github use pull request to change changes from contributers as they are useful in providing a way to notify projects mantainiers about changes one has made in intitial code review.
+
+When creating a pull request there are two main work flows:
+
+1....Pull request from  forced repository.
+
+2....Pull request from a branch within a reposity.
+
+After initializing a pull request you'll see a review of changes between your branch and the repository base branch. 
+
+you can add a summary of the proposed changes, review changes made by commits.
