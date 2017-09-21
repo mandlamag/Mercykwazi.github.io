@@ -4,6 +4,7 @@ title:  "string interpolation"
 date:   2017-09-13 09:40
 categories: 
 ---
+
 It is the process of evaluating a string containging one or more place holders
 
 It yields a result in which the placeholders are replaced with their corresponding values.
