@@ -1,6 +1,6 @@
 ---
 layout: 
-title:  "HTTP methord types"
+title:  "HTTP method types"
 date:   2017-09-21 09:40
 categories: 
 ---
