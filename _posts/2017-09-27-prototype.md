@@ -1,7 +1,7 @@
 ---
 layout: 
 title:  "Prototype"
-date:   2017-08-27 09:40
+date:   2017-09-27 09:40
 categories: 
 ---
 A prototype is an early sample, model, or release of a product built to test a concept.
