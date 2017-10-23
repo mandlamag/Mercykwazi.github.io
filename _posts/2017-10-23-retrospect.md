@@ -18,5 +18,3 @@ But now I can type more than 30 words per minute.
 
 From now moving forward I will put extra time and focus in understanding more than just moving ahead in freeCodeCamp,
 with-out a full understanding of what the topic is talking about.
-
-
