@@ -1,33 +1,33 @@
 ﻿---
 layout: post
 title:  "String Interpolation and Function"
-date:   2017-08-1408:21:45 +0200
+date:   2017-08-14  08:21:45 +0200
 categories: 
 ---
 ### string interpolation
 
--It is a proccess of evaluating a string literal containg one or more placeholders.
+-It is a process of evaluating a string literal containing one or more placeholders.
 
--it allows easir or more intuative string fommating and containt specification.compared with string contatation.
+-it allows  easier or more intuitive string formating and contain specification.compared with string contatation.
 
-### funtion
+### function
 
 -It is a block of code designed to perform a  particular task.
 
--It is excecuted when it is called.
+-It is executed when it is called.
 
-A Funtion has the following parts:
+A Function has the following parts:
 
-### Funtion name
--the name in which the function is called,they use case sensitive style of writting.
+### Function name
+-the name in which the function is called,they use case sensitive style of writing.
 
 ### parentheses()
 -it allows you to provide additional information.
 
-It usually follows the funtion name.
+It usually follows the function name.
 
 ### Parameters
--They are names listerd in the functiion defination.
+-They are names listed in the function definition.d
 
 -They are place-holders of arguments.
 
