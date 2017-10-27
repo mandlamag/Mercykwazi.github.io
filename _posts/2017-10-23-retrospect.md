@@ -4,6 +4,7 @@ title:  "retrospect"
 date:   2017-10-23 09:40
 categories: 
 ---
+
 I decided to just write about how my journey at The coding-ground has been like.
 It  is sometimes  very good to just look back in life and see whether you are going in the right direction or not.
 
