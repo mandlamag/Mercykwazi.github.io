@@ -1,12 +1,12 @@
 ﻿---
 layout: 
 title:  "Html"
-date:   2017-08-1108:21:45 +0200
+date:   2017-08-11  08:21:45 +0200
 categories: 
 ---
 It markup language is a that could be used for creating web pages and web applications.
 Html can use  Cascading Style Sheets to modify web pages.
-When writting html you should follow the following fommate :
+When writing html you should follow the following formate :
 
 <!DOCTYPE html> 
  You will be speciffing the type of document you are writting in this case it is an html document.
