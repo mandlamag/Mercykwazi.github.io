@@ -7,7 +7,6 @@ categories:
 Today in freeCodeCamp I came across an interesting challenge that I will share how I solved the problem.
 
 ## The Challenge
-
 Was to write a function that takes two or more arrays and returns a new array;
 of unique values in the order of the original provided arrays.
 
@@ -42,4 +41,7 @@ In my reduce function I used two parameters.I then used the concat method so tha
 
 I then used a for-loop to iterate my new array that was generated using the reduce method.
 Inside my for-loop I had an if-statement that said that if that empty array that I created in the beginning its index i was not    strictly equal to -1  whatever the index is must be pushed in that array.
-Then I returned the empty array which now contained the new array without any duplication.
+
+## conclusion.
+My last step was to returned the empty array which now contained the new array without any duplication.
+Then my function was now returning what was asked of it.
