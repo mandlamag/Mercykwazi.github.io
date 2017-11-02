@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: "Default"
 title:  "Sorted Union "
 date:   2017-11-02 09:40
 categories: 
