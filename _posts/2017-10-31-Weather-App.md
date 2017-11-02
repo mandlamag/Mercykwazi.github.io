@@ -15,9 +15,13 @@ I first had to understand how to transfer information that is appearing on my we
 I first console.log the Api so that it could be easy for me to see what I could display for my user to see and what not to display for my user.
 I had a function called data that contained information of the Api.
 
-I had created div inside it i had an id in my html that will hold the information that I want to display for my users.
-In my js section i used the id to select what i wanted to be accessible for my users.
+I had a container in my html that had a div,inside it I had an id  that will hold the information that I want to display for my users.
+In order for the information to be displayed in a meaner that is presentable.
+In my js section I used the id  that I had created in my Html to select what I wanted to be accessible for my users.
 I also had a function that would convert the temperature from celsius to Fahrenheit,In case my user is at a location were they use Fahrenheit not celsius.
-After creating that function I created a button that is click-able that will display the conversion that happens.
+After creating that function I created a button in the html section  that when it is  clicked it  will display the conversion.
+
+I used my css to style my weather App, I added a background colour to it and styled my heading which I called it " Your local weather".
+I also styled my <p> element added a font-size, In my p element I wrote a brief description that would attract people to pay attention to my weather app. 
 
 At the end  of this project I understood how Api work.
