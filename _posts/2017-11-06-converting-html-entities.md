@@ -1,5 +1,5 @@
 ---
-layout: 
+Layout: 
 title:  "Converting HTML Entities "
 date:   2017-11-06 09:40
 categories: 
