@@ -31,8 +31,7 @@ I was going to use the variable at a latter stage because I already had a pictur
 
 ### Third-step:Using a reduce method
 
-In this step I first created a new variable which I assigned it to
-my first variable that contained the argument that was changed to an array.
+In this step I first created a new variable which I assigned it to my first variable that contained the argument that was changed to an array.
 When I changed my arguments to an array I had 1 array that contained different arrays inside it,
 I then used the reduce method  to executes a my function for each value of the array.
 In my reduce function I used two parameters.I then used the concat method so that the returned value can be a single array containing all the values that were in the different arrays.
