@@ -1,7 +1,7 @@
 ---
-layout: 
-title:  "Local weather application "
-date:   2017-10-31 09:40
+Layout: 
+Title:  "Local weather application "
+date:   2017-10-30 09:40
 categories: 
 ---
 
