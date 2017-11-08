@@ -4,6 +4,7 @@ Title:  " Spinal case "
 date:   2017-11-07 09:40
 categories: 
 ---
+# Spinal case
 ## What was needed
 This activity required me to Convert a string to spinal case,
 To change all -Uppercase case letters into lowercase-words-joined-by-dashes.
