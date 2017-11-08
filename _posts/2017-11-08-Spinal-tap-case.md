@@ -28,7 +28,7 @@ together to be replaced with the $1 and $2.
 The  $1 being the lower case alphabets and the $2 being the upper-case and I separated the two with the space
 ,because I want my code every-time there is an uppercase joined together with a lowercase it must be separated by a space.
 
- ## third step:toLowerCase
+## third step:toLowerCase
 I then used the toLowerCase method to change every letter in the string into lower-case.
 ## forth step:  replace
 After turning every character in my string to  the lower-case, I then used the replace method to replace to replace every
