@@ -1,7 +1,7 @@
 ---
 Layout: 
 Title:  "Java script function"
-date:   2017-08-24 09:40
+date:   2017-08-23 09:40
 categories:  
 ---
 It is  a block of code designed to perform a particular task.
