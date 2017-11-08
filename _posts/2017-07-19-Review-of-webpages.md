@@ -1,7 +1,7 @@
 ﻿---
 layout:
-title:  "REVIEW OF WEB PAGES"
-date:   2017-07-19 09:40
+Title:  "REVIEW OF WEB PAGES"
+Date:   2017-07-19 09:40
 categories: 
 ---
 # Review of web pages

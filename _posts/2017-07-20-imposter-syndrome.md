@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "IMPOSTER SYNDROME"
+Layout: 
+Title:  "IMPOSTER SYNDROME"
 date:   2017-07-20 09:40
 categories: 
 ---
