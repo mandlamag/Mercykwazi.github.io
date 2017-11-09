@@ -10,6 +10,7 @@ categories:
 # What was required 
 
 This activity  required that:
+
 If a character on a string is a low-case nothing should be changed from it.
 
 If a character on a string is an upper-case it must be changed to a lower-case.
