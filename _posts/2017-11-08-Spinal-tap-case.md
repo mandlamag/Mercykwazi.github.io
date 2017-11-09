@@ -11,8 +11,11 @@ categories:
 
 This activity  required that:
 If a character on a string is a low-case nothing should be changed from it.
+
 If a character on a string is an upper-case it must be changed to a lower-case.
+
 If there is a white space between the characters on a string the space needs to be replaced with a dash.
+
 If  characters are joined together with an uppercase convert the uppercase into a lower case and put a dash before it,
 unless the character is in the begging on the sentence.
 
