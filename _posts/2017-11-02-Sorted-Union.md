@@ -3,7 +3,7 @@ Layout: "Default"
 Title:  "Sorted Union "
 date:   2017-11-02 09:40
 categories: 
----
+--- 
 Today in freeCodeCamp I came across an interesting challenge that I will share how I solved the problem.
 
 ## The Challenge
