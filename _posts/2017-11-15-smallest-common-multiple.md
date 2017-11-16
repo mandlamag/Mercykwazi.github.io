@@ -1,7 +1,7 @@
 ---
 Layout: 
 Title: "Smallest-multiple"
-date:   2017-11-14  09:40
+date:   2017-11-15  09:40
 categories: 
 ---
 # Smallest Common multiple

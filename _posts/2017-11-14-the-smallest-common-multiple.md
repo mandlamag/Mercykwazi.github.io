@@ -1,7 +1,7 @@
 ---
 Layout: 
 Title: "get-the-smallest-common-multiple"
-date:   2017-11-15  09:40
+date:   2017-11-14  09:40
 categories: 
 ---
 ## The task
