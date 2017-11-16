@@ -16,7 +16,8 @@ The numbers given are not sorted.
 ## My approach
 ###  theory
 I could not finish this task on time but there are a few things that I observed based on this activity
-My first approach to this activity was to first to research what where.
+My first approach to this activity was to first to research what multiples were.
+Multiples are the result of multiplying a number by an integer (not by a fraction).
 
 ### Creating  my first function 
 I first created a function that checks the numbers in the range of the two given parameters.
