@@ -7,7 +7,7 @@ categories:
 # Finders keepers
 
 ## Theory
-When I was solving this problem I did not strangle that much I found  the problem approachable.
+When I was solving this problem I did not struggle that much I found the problem approachable.With my recent encounters with functions, I'm beginning to be able to look at the problem and come up with ways on how I'm going to solve the problem before writing it in code.
 
 ## The problem
 This activity required that Given a function with two arguments an Array and a  function I must:
@@ -18,22 +18,22 @@ The function must return the first element in the array that passes a truth test
 
 ## My approach
 ### Created a function
-Inside my first function I created another function that validates the argument passed in it.
+Inside my first function, I created another function that validates the argument passed in it.I did this because it
 
-In that function I gave it a conditional statement.
+In that function, I gave it a conditional statement.
 
 In the if statement I said whatever value is passed in as an argument it must be devisable by 2 and leave zero as a remainder.
 
-And if thats the case the value passed in must be returned. 
+And if that's the case the value passed in must be returned. 
 
 ## filter
-I then used the filter method to filter though my array and called in my function
+I then used the filter method to filter through my array and called in my function
 
 The filter method will go in the array and check which number in the array is devisable by two and leaves the remainder 0;
 I then return the array but in my return statement I specified that It should retain the first value by indicating with array index 0
 
 ## Conclusion 
 My function was now working.
-In this activity I created another function which was not necessary.
-I could have used th given function as an argument but I did this so that I get familiar with  writing two functions,
+In this activity, I created another function which was not necessary.
+I could have used the given function as an argument but I did this so that I get familiar with  writing two functions,
 and also calling the function that I have created in the other function.
