@@ -20,3 +20,7 @@ this means that if you are dealing with an array, then you need flatten it by ge
 I created a variable which I assigned it to an empty array.
 ## second step
 I then created a for-loop which went to every index of the array.
+## third step
+Inside my for-loop I then created an If statement which I said that if the value passed is an array it must be pushed to an empty array and added a concat method.
+## Conclusion 
+I then returned my array then my function was now working.
