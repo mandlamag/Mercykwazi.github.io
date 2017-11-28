@@ -23,8 +23,8 @@ because not all the numbers used that order others had a dashes and spaces in be
 ### I only considered the first scenario where the numbers where separated by dashes and their number order was 3,3 and 4 at the end.
 ### So my regex was in the following order /^\d{3}[-\s]\d{3}[-\s]\d{4}$/ 
 The d stands for the digits which are three and in between them there is ether a dash or white-space.
-### I then used test() method to validate my string.The test method would return true if the passed string is 
-indeed a valid US telephone number.
+### I then used test() method to validate my string.
+The test method would return true if the passed string is indeed a valid US telephone number.
 ## Conclusion
 The written regex only worked for one scenario and the others it did not.My function was not returning what it was expected to return.
 
