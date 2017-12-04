@@ -1,7 +1,7 @@
 ---
 Layout: 
 Title: "Factorialize a Number"
-date:   2017-11-04  09:40
+date:   2017-12-01  09:40
 categories: 
 ---
 # Factorialize a Number
