@@ -5,7 +5,7 @@ date:   2017-12-01  09:40
 categories: 
 ---
 # Factorialize a Number
-## on Fridays I usually have assignments that I have to do after the assignments, I decided to do a little revision on the problem that I did in freeCodeCamp
+on Fridays I usually have assignments that I have to do after the assignments, I decided to do a little revision on the problem that I did in freeCodeCamp
 which was at the begging of javaScript it was Introduction to JavaScript.
 ## The problem:
 I must return a factorial of the provided integer.
