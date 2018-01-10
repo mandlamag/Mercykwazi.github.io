@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "Updating inventry"
+Layout: 
+Title:  "Updating inventry"
 date:   2018-01-09 09:40
 categories: 
 ---
