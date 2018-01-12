@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "reduce-function"
+Layout: 
+Title:  "reduce-function"
 date:   2018-01-12 09:40
 categories: 
 ---
