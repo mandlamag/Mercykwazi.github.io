@@ -25,14 +25,6 @@ After having two parameters I then declared two variables which one would be an 
 ## for-loop
 I then had a for-loop which looped through my default parameter.
 I then set my c index to zero.
-function permAlone(a, n = a.length) {
- 
-    var results = [];
-    var c = [];
-
-    for (var i = 0; i < n; i++) {
-        c[i] = 0;
-    }
 I then closed my for loop and then pushed my a which is the first parameter into my results array.
 I then set my index to zero.
 ## While-loop
@@ -45,9 +37,6 @@ I had another if statement that checked if  index was even (if (i % 2 === 0) {),
 ## Splitting the first parameter
 I then created a variable that would contain a as a spitted string.
 I then declared two more variables,the first one I assigned it to my splitted index zero and the second one I assigned it to splitted index i
- var splitted = a.split('');
-                var temp0 = splitted[0];
-                var tempi = splitted[i];
 ## Swapping the variables
 One of the steps in the heap algorithm was swapping the two variables which  I just said that my splitted[0] was equal to tempi and splitted[i] was equal to temp0.
 I then joined the splitted string.   
@@ -55,9 +44,6 @@ I then joined the splitted string.
 If it happened that index was odd the following would happen:
 I  created a variable that would contain a as a spitted string.  
 I also declared two more variables,the first one I assigned it to my splitt  c index i and the second one I assigned it to splitt index i
-   var splitt = a.split('');
-                var temp1 = splitt[c[i]];
-                var tempx = splitt[i];  
 ## Swapping the variables
 I also swapped the variables which splitt[c[i]] ended up being equal to tempx and splitt index being equal to temp1.
 I then joined the splitted string.
@@ -67,8 +53,7 @@ I then pushed my a again into my array.
 I then appended my c index by 1,then set i to zero again.
 ## Else-statement
 If it happens that index was greater than my default parameter, c index would be equal to zero and I also appended i by one.
-c[i] = 0;
-  i += 1;
+
 I then closed my  else and while loop.
 ## All permutations
 Now the code above gave me all the permutations that the string passed in would produce,now my following step was to filter out all the repeating  strings.
@@ -78,9 +63,6 @@ I knew I had to create another function that would filter out all the repetition
 I  then used the filter method to filter through my results array so that it could remove all the repeating strings.
 ## regex
 In my return statement of the filter function  I used the regex method .match() said that if the letters that are passed do not have more than one word that matches them then they must be returned
-  var permutation = results.filter(function(letters){
-     return !letters.match(/(.)\1+/g);
-  });
 I then closed my function.
 ## My final return
 I then returned my results array which was contained  permutations that do not repeat,I then used the .length so that it could give me the length of those permutations.
