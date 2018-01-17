@@ -20,9 +20,9 @@ After I wrote down my steps I knew my first step was to filter out all permutati
 ## first function
 In the function that we were given on freeCodeCamp it had one parameter which was the string so I decided to use a default parameter,When no value is passed into a function the value of the parameter will be undefined.I did this so that it could be easy for me to use another parameter.
 In this function I used heap algorithm sudo code to help me solve the problem.
-####  Declaring variables
+## Declaring variables
 After having two parameters I then declared two variables which one would be an empty  array which i named it c. and the other one was an array I would store my results.
-#### for-loop
+## for-loop
 I then had a for-loop which looped through my default parameter.
 I then set my c index to zero.
 function permAlone(a, n = a.length) {
@@ -35,48 +35,48 @@ function permAlone(a, n = a.length) {
     }
 I then closed my for loop and then pushed my a which is the first parameter into my results array.
 I then set my index to zero.
-#### While-loop
+## While-loop
 I then had a while-loop that said  when index was less than my default parameter.
 the following must happen:
-#### if-statement
+## if-statement
 I then said as long as my while loop has not broke,inside of the while loop I had an if statement that if c index is less than i (if (c[i] < i) {) then:
-#### second if-statement
+##second if-statement
 I had another if statement that checked if  index was even (if (i % 2 === 0) {), and if i is even then the following had to happen:
-####### Splitting the first parameter
+## Splitting the first parameter
 I then created a variable that would contain a as a spitted string.
 I then declared two more variables,the first one I assigned it to my splitted index zero and the second one I assigned it to splitted index i
  var splitted = a.split('');
                 var temp0 = splitted[0];
                 var tempi = splitted[i];
-####### Swapping the variables
+## Swapping the variables
 One of the steps in the heap algorithm was swapping the two variables which  I just said that my splitted[0] was equal to tempi and splitted[i] was equal to temp0.
 I then joined the splitted string.   
-#### Else-statement
+## Else-statement
 If it happened that index was odd the following would happen:
 I  created a variable that would contain a as a spitted string.  
 I also declared two more variables,the first one I assigned it to my splitt  c index i and the second one I assigned it to splitt index i
    var splitt = a.split('');
                 var temp1 = splitt[c[i]];
                 var tempx = splitt[i];  
-####### Swapping the variables
+## Swapping the variables
 I also swapped the variables which splitt[c[i]] ended up being equal to tempx and splitt index being equal to temp1.
 I then joined the splitted string.
 I then closed my else statement 
-#### push
+## push
 I then pushed my a again into my array.
 I then appended my c index by 1,then set i to zero again.
-#### Else-statement
+## Else-statement
 If it happens that index was greater than my default parameter, c index would be equal to zero and I also appended i by one.
 c[i] = 0;
   i += 1;
 I then closed my  else and while loop.
-##
+## All permutations
 Now the code above gave me all the permutations that the string passed in would produce,now my following step was to filter out all the repeating  strings.
-### My second function
+## My second function
 I knew I had to create another function that would filter out all the repetitions in my string.
-#### filter-method
+## filter-method
 I  then used the filter method to filter through my results array so that it could remove all the repeating strings.
-#### regex
+## regex
 In my return statement of the filter function  I used the regex method .match() said that if the letters that are passed do not have more than one word that matches them then they must be returned
   var permutation = results.filter(function(letters){
      return !letters.match(/(.)\1+/g);
