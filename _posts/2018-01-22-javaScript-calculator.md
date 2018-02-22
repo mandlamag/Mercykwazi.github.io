@@ -41,5 +41,5 @@ var results=document.getElementById("screen");
   results.innerHTML +=0
 }
 
-## Conclusion
+Conclusion
 I then used the functions that I called there in my Html as an on-click so that when ever a button is clicked it calls this function.My next step is to be able to add and subtract the numbers so that I could return a correct value,and also be able to style my calculator.
