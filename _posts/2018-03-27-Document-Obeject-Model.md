@@ -17,4 +17,21 @@ DOM is an in-memory representation of html text.
 ### It’s hard to manage. 
 It is sometimes to manage the DOM especial when your DOM is made up of thousands of divs,The DOM is said to have a tree structure  so if  you have to tweak an event handler. If you lost the context, you have to dive really deep into the code to even know what’s going on.
 This will result in  Both time-consuming and bug-risky. 
-### 
+#Virtual DOM 
+we have this type of DOM which is the Virtual one.
+It is an abstraction of the HTML DOM.
+It is also a lightweight and detached from the browser-specific implementation details.
+It allows React to do its computations within this abstract world and skip the “real” DOM operations, often slow and browser-specific.
+
+var CommentBox = React.createClass({
+  render: function() {
+    return (
+      <div>
+        Hello, world! .
+      </div>
+    );
+  }
+});
+The code below will be rendered in a DOM.
+## Conclusion
+The DOM is one of the most important element in react because it displays what will be viewed by the User.
