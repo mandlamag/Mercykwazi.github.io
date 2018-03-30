@@ -45,4 +45,7 @@ This method triggers the  componentWillUnmount
 ## componentWillUnmount
 This method  gets called before the component is removed from the DOM
 
+# Conclusion
+This is the life cycle of react.
+
  
