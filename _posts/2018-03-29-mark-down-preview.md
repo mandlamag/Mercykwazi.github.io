@@ -21,4 +21,32 @@ I then imported a library react as this was the labriary I was going to use to c
 I also imported the package marked which was recomended by freeCodeCamp in order for it to convert my text to markdown.
 
 ## index.js
-This was my main file where I imported all the libraries that I was going to use.I had a class which I called a convert  which was going to render the id that I declared in my html.
+This was my main file where I imported all the libraries that I was going to use.I had a class which I called a convert  which was going to render the id that I declared in my html.the render method also returned the two other class that I would discuss below witch are Input and markdown.
+In my converter class I had a constructor method where I set my input state to an empty string.
+I had another function which I called change state,which took and iteam as its parameter, I then set my state using the this.setState method  setting my input to the passed parameter iteam.
+
+## input.js
+I then had another class which I called the input.In this class I had  a function called handleChange witch passed in an event.
+I also had had a constant witch I named iteam which I assigned it to e.target.value;
+I then called in my changeState function. 
+  
+ handleChange(e) {
+        const iteam = e.target.value;
+        this.props.changeState(iteam);
+    }
+
+### render
+In this component in my render function I rendered an text area, I then called an onchange method which I passed in the handleChange method.
+
+ <textarea placeholder="Please type your text here..." onChange={this.handleChange.bind(this)} ></textarea>
+
+## mark.js
+In this class I named it markdown.
+I first a library called markdown which was going to convert everything that was typed in a text area into a markdown.
+In this component I just rendered an html method called dangerouslySetInnerHTML.
+
+# Conclusion
+In my index.js in my render method In the Input component I called the changeState method which set my state to iteam,I then bind it with this.
+In the Markdown component I created a variable called result,which I assigned it to this.state.input.
+My app was up and running
+        
